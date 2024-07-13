@@ -1,1 +1,2 @@
-echo "welcome"
+echo "welcome.sh"
+echo "hello"
